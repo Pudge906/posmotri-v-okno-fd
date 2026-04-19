@@ -1,1 +1,1 @@
-https://github.com/Pudge906/posmotri-v-okno-fd#
+https://github.com/Pudge906/posmotri-v-okno-fd
