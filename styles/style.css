@@ -160,7 +160,7 @@ ol {
 
 .content__accent {
   font-weight: 700;
-  color: rgba(255, 255, 255, 0.2);
+  color: #545050;
 }
 
 .content__card-link {
@@ -189,7 +189,7 @@ ol {
   font-size: 18px;
   line-height: 16px;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -240,7 +240,7 @@ ol {
 }
 
 .search-form__textfield::placeholder {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.7);
   font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
@@ -323,7 +323,6 @@ ol {
 }
 
 .button:active {
-  color: #fff;
   background-color: #545050;
   border-color: #fff;
   text-decoration: none;
